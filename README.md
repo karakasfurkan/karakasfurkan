@@ -1,8 +1,8 @@
 # Furkan Karakaş
 
-**Bilgisayar Programcılığı Öğrencisi | Yazılım Geliştirici**
+**Yazılım Geliştirici**
 
-İstanbul Rumeli Üniversitesi Bilgisayar Programcılığı bölümünde eğitimime devam etmekteyim. Yazılım geliştirme süreçlerine, modern veritabanı mimarilerine ve akıllı otomasyon sistemlerine odaklanıyorum.
+İstanbul Rumeli Üniversitesi Bilgisayar Programcılığı bölümü mezunuyum. Yazılım geliştirme süreçlerine, modern veritabanı mimarilerine ve akıllı otomasyon sistemlerine odaklanıyorum.
 
 ### Teknik Yetkinlikler
 
